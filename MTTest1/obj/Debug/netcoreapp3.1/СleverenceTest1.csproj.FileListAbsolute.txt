@@ -1,0 +1,14 @@
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.AssemblyInfoInputs.cache
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.AssemblyInfo.cs
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.csproj.CoreCompileInputs.cache
+F:\Programming\СleverenceTest1\bin\Debug\netcoreapp3.1\СleverenceTest1.exe
+F:\Programming\СleverenceTest1\bin\Debug\netcoreapp3.1\СleverenceTest1.deps.json
+F:\Programming\СleverenceTest1\bin\Debug\netcoreapp3.1\СleverenceTest1.runtimeconfig.json
+F:\Programming\СleverenceTest1\bin\Debug\netcoreapp3.1\СleverenceTest1.runtimeconfig.dev.json
+F:\Programming\СleverenceTest1\bin\Debug\netcoreapp3.1\СleverenceTest1.dll
+F:\Programming\СleverenceTest1\bin\Debug\netcoreapp3.1\СleverenceTest1.pdb
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.dll
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.pdb
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.genruntimeconfig.cache
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.csproj.AssemblyReference.cache
+F:\Programming\СleverenceTest1\obj\Debug\netcoreapp3.1\СleverenceTest1.GeneratedMSBuildEditorConfig.editorconfig

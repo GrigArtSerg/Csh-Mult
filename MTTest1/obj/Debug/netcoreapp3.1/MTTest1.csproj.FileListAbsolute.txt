@@ -1,0 +1,14 @@
+F:\Programming\Multithreading\MTTest1\bin\Debug\netcoreapp3.1\MTTest1.exe
+F:\Programming\Multithreading\MTTest1\bin\Debug\netcoreapp3.1\MTTest1.deps.json
+F:\Programming\Multithreading\MTTest1\bin\Debug\netcoreapp3.1\MTTest1.runtimeconfig.json
+F:\Programming\Multithreading\MTTest1\bin\Debug\netcoreapp3.1\MTTest1.runtimeconfig.dev.json
+F:\Programming\Multithreading\MTTest1\bin\Debug\netcoreapp3.1\MTTest1.dll
+F:\Programming\Multithreading\MTTest1\bin\Debug\netcoreapp3.1\MTTest1.pdb
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.csproj.AssemblyReference.cache
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.AssemblyInfoInputs.cache
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.AssemblyInfo.cs
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.csproj.CoreCompileInputs.cache
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.dll
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.pdb
+F:\Programming\Multithreading\MTTest1\obj\Debug\netcoreapp3.1\MTTest1.genruntimeconfig.cache
